@@ -1,6 +1,8 @@
 const a = 10;
 
-const notFormattedFunc = () => {
+const notFormattedFunc = () => 
+
+{
   console.log('i am not formatted but commited this way');
 };
 
